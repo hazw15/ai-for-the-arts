@@ -8,4 +8,5 @@ Goals:
   <li>Create a cool portfolio???</li>
 </ol>
 
-A bulleted list of goals (e.g., - Learn GitHub basics).
+Just following the course book...
+
