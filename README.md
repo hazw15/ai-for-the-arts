@@ -53,3 +53,5 @@ This repository contains three notebooks, one demonstrating my **Understanding o
 
 Total word count (across all 3 Notebooks):
 
+
+All the notebooks in this repository utilise the .venv (3.14.2) (Python 3.14.2) Jupyter Notebook kernel. 
